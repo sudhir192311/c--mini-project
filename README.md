@@ -1,4 +1,4 @@
-# c-mini-project
+# c++-mini-project
 c++ mini project for beginner
 Mini Projects written in C++ for begineer.
 
